@@ -19,4 +19,12 @@
 `python manage.py migrate`
 
 将改动迁移到数据库，完成建表、修改字段等操作，操作成功后会在数据库django_migrations表中添加一条数据，表示migration文件已迁移,
-若迁移不了，找到这条记录，可以删掉，就可以了 
+若迁移不了，找到这条记录，可以删掉，就可以了
+
+
+## Django 的admin UI
+* [simpleui](https://github.com/newpanjing/simpleui)
+
+Element-UI + Vue 加持的产品
+
+* [admin-ui项目-知乎](https://zhuanlan.zhihu.com/p/72053134)
