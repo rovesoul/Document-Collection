@@ -2,7 +2,7 @@
 
 * [网站收集](WEB-SITs)
 * [品牌收集](branch.md)
-* [旅游景点收集]()
+* [旅游景点收集](travel.md)
 * [菜谱收集](menu.md)
 * [金句收集](goldSay.md)
 * [下载链接收集](downLoad.md)
