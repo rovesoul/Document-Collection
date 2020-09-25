@@ -8,3 +8,4 @@
 * [下载链接收集](downLoad.md)
 * [VSCODE插件收集](VSCode-plugs.md)
 * [Django操作技巧](Django%20Do%20order.md)
+* [Git报错处理](Git-order.md)
